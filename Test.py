@@ -1,1 +1,4 @@
-print ("Juan Pablo")
+print ("Hola mundo")
+
+edad = 25
+print("Mi edad es:", edad)
